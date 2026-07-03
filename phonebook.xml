@@ -1,38 +1,35 @@
-<AddressBookGroup>
-  <Group Name="InterGlobe Marine LLC Directory" ID="1" Type="Local"/>
-</AddressBookGroup>
 <AddressBook>
-  <Contact><FirstName>Janhavi Anand</FirstName><Phone type="Work" phonenumber="100"/><Group>1</Group></Contact>
-  <Contact><FirstName>Aman Maulvi</FirstName><Phone type="Work" phonenumber="101"/><Group>1</Group></Contact>
-  <Contact><FirstName>Geetha Sreenivasan</FirstName><Phone type="Work" phonenumber="102"/><Group>1</Group></Contact>
-  <Contact><FirstName>Violet Correa</FirstName><Phone type="Work" phonenumber="103"/><Group>1</Group></Contact>
-  <Contact><FirstName>Juhi Sipi</FirstName><Phone type="Work" phonenumber="104"/><Group>1</Group></Contact>
-  <Contact><FirstName>Maheq Salim</FirstName><Phone type="Work" phonenumber="105"/><Group>1</Group></Contact>
-  <Contact><FirstName>Yogeshwar Chauhan</FirstName><Phone type="Work" phonenumber="106"/><Group>1</Group></Contact>
-  <Contact><FirstName>Abdul Sajjad</FirstName><Phone type="Work" phonenumber="107"/><Group>1</Group></Contact>
-  <Contact><FirstName>Athar Samnake</FirstName><Phone type="Work" phonenumber="108"/><Group>1</Group></Contact>
-  <Contact><FirstName>Zaheer Memon</FirstName><Phone type="Work" phonenumber="109"/><Group>1</Group></Contact>
-  <Contact><FirstName>Abdul Majid</FirstName><Phone type="Work" phonenumber="110"/><Group>1</Group></Contact>
-  <Contact><FirstName>Munawar Ali Khan</FirstName><Phone type="Work" phonenumber="111"/><Group>1</Group></Contact>
-  <Contact><FirstName>Anus Rais</FirstName><Phone type="Work" phonenumber="112"/><Group>1</Group></Contact>
-  <Contact><FirstName>Aqib Ibrahim</FirstName><Phone type="Work" phonenumber="113"/><Group>1</Group></Contact>
-  <Contact><FirstName>Aamer</FirstName><Phone type="Work" phonenumber="114"/><Group>1</Group></Contact>
-  <Contact><FirstName>Touqeer Riasat</FirstName><Phone type="Work" phonenumber="115"/><Group>1</Group></Contact>
-  <Contact><FirstName>Zaki Ansari</FirstName><Phone type="Work" phonenumber="116"/><Group>1</Group></Contact>
-  <Contact><FirstName>Mohammed Fahad</FirstName><Phone type="Work" phonenumber="117"/><Group>1</Group></Contact>
-  <Contact><FirstName>Kay Mary</FirstName><Phone type="Work" phonenumber="119"/><Group>1</Group></Contact>
-  <Contact><FirstName>Nazmin Mullam</FirstName><Phone type="Work" phonenumber="120"/><Group>1</Group></Contact>
-  <Contact><FirstName>Zahra Ahmed</FirstName><Phone type="Work" phonenumber="121"/><Group>1</Group></Contact>
-  <Contact><FirstName>Stephen George</FirstName><Phone type="Work" phonenumber="122"/><Group>1</Group></Contact>
-  <Contact><FirstName>Lukuman Iqbal</FirstName><Phone type="Work" phonenumber="123"/><Group>1</Group></Contact>
-  <Contact><FirstName>Mohammed Naeem</FirstName><Phone type="Work" phonenumber="124"/><Group>1</Group></Contact>
-  <Contact><FirstName>Conference</FirstName><Phone type="Work" phonenumber="126"/><Group>1</Group></Contact>
-  <Contact><FirstName>Nasreen Memon</FirstName><Phone type="Work" phonenumber="201"/><Group>1</Group></Contact>
-  <Contact><FirstName>Alvaris Khan</FirstName><Phone type="Work" phonenumber="203"/><Group>1</Group></Contact>
-  <Contact><FirstName>Arvind Kushwaha</FirstName><Phone type="Work" phonenumber="204"/><Group>1</Group></Contact>
-  <Contact><FirstName>Naeema C.K</FirstName><Phone type="Work" phonenumber="205"/><Group>1</Group></Contact>
-  <Contact><FirstName>Mohammed Rashad</FirstName><Phone type="Work" phonenumber="209"/><Group>1</Group></Contact>
-  <Contact><FirstName>Khalid Sayed Mohamed</FirstName><Phone type="Work" phonenumber="211"/><Group>1</Group></Contact>
-  <Contact><FirstName>George Vince</FirstName><Phone type="Work" phonenumber="212"/><Group>1</Group></Contact>
-  <Contact><FirstName>Sulman Mahmood Awan</FirstName><Phone type="Work" phonenumber="213"/><Group>1</Group></Contact>
+<Contact><id>1</id><FirstName>Janhavi</FirstName><LastName>Anand</LastName><Frequent>0</Frequent><Phone type="Work"><phonenumber>100</phonenumber><accountindex>0</accountindex></Phone><Primary>0</Primary></Contact>
+<Contact><id>2</id><FirstName>Aman</FirstName><LastName>Maulvi</LastName><Frequent>0</Frequent><Phone type="Work"><phonenumber>101</phonenumber><accountindex>0</accountindex></Phone><Primary>0</Primary></Contact>
+<Contact><id>3</id><FirstName>Geetha</FirstName><LastName>Sreenivasan</LastName><Frequent>0</Frequent><Phone type="Work"><phonenumber>102</phonenumber><accountindex>0</accountindex></Phone><Primary>0</Primary></Contact>
+<Contact><id>4</id><FirstName>Violet</FirstName><LastName>Correa</LastName><Frequent>0</Frequent><Phone type="Work"><phonenumber>103</phonenumber><accountindex>0</accountindex></Phone><Primary>0</Primary></Contact>
+<Contact><id>5</id><FirstName>Juhi</FirstName><LastName>Sipi</LastName><Frequent>0</Frequent><Phone type="Work"><phonenumber>104</phonenumber><accountindex>0</accountindex></Phone><Primary>0</Primary></Contact>
+<Contact><id>6</id><FirstName>Maheq</FirstName><LastName>Salim</LastName><Frequent>0</Frequent><Phone type="Work"><phonenumber>105</phonenumber><accountindex>0</accountindex></Phone><Primary>0</Primary></Contact>
+<Contact><id>7</id><FirstName>Yogeshwar</FirstName><LastName>Chauhan</LastName><Frequent>0</Frequent><Phone type="Work"><phonenumber>106</phonenumber><accountindex>0</accountindex></Phone><Primary>0</Primary></Contact>
+<Contact><id>8</id><FirstName>Abdul</FirstName><LastName>Sajjad</LastName><Frequent>0</Frequent><Phone type="Work"><phonenumber>107</phonenumber><accountindex>0</accountindex></Phone><Primary>0</Primary></Contact>
+<Contact><id>9</id><FirstName>Athar</FirstName><LastName>Samnake</LastName><Frequent>0</Frequent><Phone type="Work"><phonenumber>108</phonenumber><accountindex>0</accountindex></Phone><Primary>0</Primary></Contact>
+<Contact><id>10</id><FirstName>Zaheer</FirstName><LastName>Memon</LastName><Frequent>0</Frequent><Phone type="Work"><phonenumber>109</phonenumber><accountindex>0</accountindex></Phone><Primary>0</Primary></Contact>
+<Contact><id>11</id><FirstName>Abdul</FirstName><LastName>Majid</LastName><Frequent>0</Frequent><Phone type="Work"><phonenumber>110</phonenumber><accountindex>0</accountindex></Phone><Primary>0</Primary></Contact>
+<Contact><id>12</id><FirstName>Munawar</FirstName><LastName>Ali Khan</LastName><Frequent>0</Frequent><Phone type="Work"><phonenumber>111</phonenumber><accountindex>0</accountindex></Phone><Primary>0</Primary></Contact>
+<Contact><id>13</id><FirstName>Anus</FirstName><LastName>Rais</LastName><Frequent>0</Frequent><Phone type="Work"><phonenumber>112</phonenumber><accountindex>0</accountindex></Phone><Primary>0</Primary></Contact>
+<Contact><id>14</id><FirstName>Aqib</FirstName><LastName>Ibrahim</LastName><Frequent>0</Frequent><Phone type="Work"><phonenumber>113</phonenumber><accountindex>0</accountindex></Phone><Primary>0</Primary></Contact>
+<Contact><id>15</id><FirstName>Aamer</FirstName><LastName></LastName><Frequent>0</Frequent><Phone type="Work"><phonenumber>114</phonenumber><accountindex>0</accountindex></Phone><Primary>0</Primary></Contact>
+<Contact><id>16</id><FirstName>Touqeer</FirstName><LastName>Riasat</LastName><Frequent>0</Frequent><Phone type="Work"><phonenumber>115</phonenumber><accountindex>0</accountindex></Phone><Primary>0</Primary></Contact>
+<Contact><id>17</id><FirstName>Zaki</FirstName><LastName>Ansari</LastName><Frequent>0</Frequent><Phone type="Work"><phonenumber>116</phonenumber><accountindex>0</accountindex></Phone><Primary>0</Primary></Contact>
+<Contact><id>18</id><FirstName>Mohammed</FirstName><LastName>Fahad</LastName><Frequent>0</Frequent><Phone type="Work"><phonenumber>117</phonenumber><accountindex>0</accountindex></Phone><Primary>0</Primary></Contact>
+<Contact><id>19</id><FirstName>Kay</FirstName><LastName>Mary</LastName><Frequent>0</Frequent><Phone type="Work"><phonenumber>119</phonenumber><accountindex>0</accountindex></Phone><Primary>0</Primary></Contact>
+<Contact><id>20</id><FirstName>Nazmin</FirstName><LastName>Mullam</LastName><Frequent>0</Frequent><Phone type="Work"><phonenumber>120</phonenumber><accountindex>0</accountindex></Phone><Primary>0</Primary></Contact>
+<Contact><id>21</id><FirstName>Zahra</FirstName><LastName>Ahmed</LastName><Frequent>0</Frequent><Phone type="Work"><phonenumber>121</phonenumber><accountindex>0</accountindex></Phone><Primary>0</Primary></Contact>
+<Contact><id>22</id><FirstName>Stephen</FirstName><LastName>George</LastName><Frequent>0</Frequent><Phone type="Work"><phonenumber>122</phonenumber><accountindex>0</accountindex></Phone><Primary>0</Primary></Contact>
+<Contact><id>23</id><FirstName>Lukuman</FirstName><LastName>Iqbal</LastName><Frequent>0</Frequent><Phone type="Work"><phonenumber>123</phonenumber><accountindex>0</accountindex></Phone><Primary>0</Primary></Contact>
+<Contact><id>24</id><FirstName>Mohammed</FirstName><LastName>Naeem</LastName><Frequent>0</Frequent><Phone type="Work"><phonenumber>124</phonenumber><accountindex>0</accountindex></Phone><Primary>0</Primary></Contact>
+<Contact><id>25</id><FirstName>Conference</FirstName><LastName></LastName><Frequent>0</Frequent><Phone type="Work"><phonenumber>126</phonenumber><accountindex>0</accountindex></Phone><Primary>0</Primary></Contact>
+<Contact><id>26</id><FirstName>Nasreen</FirstName><LastName>Memon</LastName><Frequent>0</Frequent><Phone type="Work"><phonenumber>201</phonenumber><accountindex>0</accountindex></Phone><Primary>0</Primary></Contact>
+<Contact><id>27</id><FirstName>Alvaris</FirstName><LastName>Khan</LastName><Frequent>0</Frequent><Phone type="Work"><phonenumber>203</phonenumber><accountindex>0</accountindex></Phone><Primary>0</Primary></Contact>
+<Contact><id>28</id><FirstName>Arvind</FirstName><LastName>Kushwaha</LastName><Frequent>0</Frequent><Phone type="Work"><phonenumber>204</phonenumber><accountindex>0</accountindex></Phone><Primary>0</Primary></Contact>
+<Contact><id>29</id><FirstName>Naeema</FirstName><LastName>C.K</LastName><Frequent>0</Frequent><Phone type="Work"><phonenumber>205</phonenumber><accountindex>0</accountindex></Phone><Primary>0</Primary></Contact>
+<Contact><id>30</id><FirstName>Mohammed</FirstName><LastName>Rashad</LastName><Frequent>0</Frequent><Phone type="Work"><phonenumber>209</phonenumber><accountindex>0</accountindex></Phone><Primary>0</Primary></Contact>
+<Contact><id>31</id><FirstName>Khalid</FirstName><LastName>Sayed Mohamed</LastName><Frequent>0</Frequent><Phone type="Work"><phonenumber>211</phonenumber><accountindex>0</accountindex></Phone><Primary>0</Primary></Contact>
+<Contact><id>32</id><FirstName>George</FirstName><LastName>Vince</LastName><Frequent>0</Frequent><Phone type="Work"><phonenumber>212</phonenumber><accountindex>0</accountindex></Phone><Primary>0</Primary></Contact>
+<Contact><id>33</id><FirstName>Sulman</FirstName><LastName>Mahmood Awan</LastName><Frequent>0</Frequent><Phone type="Work"><phonenumber>213</phonenumber><accountindex>0</accountindex></Phone><Primary>0</Primary></Contact>
 </AddressBook>
