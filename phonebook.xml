@@ -1,1 +1,38 @@
-
+<AddressBookGroup>
+  <Group Name="InterGlobe Marine LLC Directory" ID="1" Type="Local"/>
+</AddressBookGroup>
+<AddressBook>
+  <Contact><FirstName>Janhavi Anand</FirstName><Phone type="Work" phonenumber="100"/><Group>1</Group></Contact>
+  <Contact><FirstName>Aman Maulvi</FirstName><Phone type="Work" phonenumber="101"/><Group>1</Group></Contact>
+  <Contact><FirstName>Geetha Sreenivasan</FirstName><Phone type="Work" phonenumber="102"/><Group>1</Group></Contact>
+  <Contact><FirstName>Violet Correa</FirstName><Phone type="Work" phonenumber="103"/><Group>1</Group></Contact>
+  <Contact><FirstName>Juhi Sipi</FirstName><Phone type="Work" phonenumber="104"/><Group>1</Group></Contact>
+  <Contact><FirstName>Maheq Salim</FirstName><Phone type="Work" phonenumber="105"/><Group>1</Group></Contact>
+  <Contact><FirstName>Yogeshwar Chauhan</FirstName><Phone type="Work" phonenumber="106"/><Group>1</Group></Contact>
+  <Contact><FirstName>Abdul Sajjad</FirstName><Phone type="Work" phonenumber="107"/><Group>1</Group></Contact>
+  <Contact><FirstName>Athar Samnake</FirstName><Phone type="Work" phonenumber="108"/><Group>1</Group></Contact>
+  <Contact><FirstName>Zaheer Memon</FirstName><Phone type="Work" phonenumber="109"/><Group>1</Group></Contact>
+  <Contact><FirstName>Abdul Majid</FirstName><Phone type="Work" phonenumber="110"/><Group>1</Group></Contact>
+  <Contact><FirstName>Munawar Ali Khan</FirstName><Phone type="Work" phonenumber="111"/><Group>1</Group></Contact>
+  <Contact><FirstName>Anus Rais</FirstName><Phone type="Work" phonenumber="112"/><Group>1</Group></Contact>
+  <Contact><FirstName>Aqib Ibrahim</FirstName><Phone type="Work" phonenumber="113"/><Group>1</Group></Contact>
+  <Contact><FirstName>Aamer</FirstName><Phone type="Work" phonenumber="114"/><Group>1</Group></Contact>
+  <Contact><FirstName>Touqeer Riasat</FirstName><Phone type="Work" phonenumber="115"/><Group>1</Group></Contact>
+  <Contact><FirstName>Zaki Ansari</FirstName><Phone type="Work" phonenumber="116"/><Group>1</Group></Contact>
+  <Contact><FirstName>Mohammed Fahad</FirstName><Phone type="Work" phonenumber="117"/><Group>1</Group></Contact>
+  <Contact><FirstName>Kay Mary</FirstName><Phone type="Work" phonenumber="119"/><Group>1</Group></Contact>
+  <Contact><FirstName>Nazmin Mullam</FirstName><Phone type="Work" phonenumber="120"/><Group>1</Group></Contact>
+  <Contact><FirstName>Zahra Ahmed</FirstName><Phone type="Work" phonenumber="121"/><Group>1</Group></Contact>
+  <Contact><FirstName>Stephen George</FirstName><Phone type="Work" phonenumber="122"/><Group>1</Group></Contact>
+  <Contact><FirstName>Lukuman Iqbal</FirstName><Phone type="Work" phonenumber="123"/><Group>1</Group></Contact>
+  <Contact><FirstName>Mohammed Naeem</FirstName><Phone type="Work" phonenumber="124"/><Group>1</Group></Contact>
+  <Contact><FirstName>Conference</FirstName><Phone type="Work" phonenumber="126"/><Group>1</Group></Contact>
+  <Contact><FirstName>Nasreen Memon</FirstName><Phone type="Work" phonenumber="201"/><Group>1</Group></Contact>
+  <Contact><FirstName>Alvaris Khan</FirstName><Phone type="Work" phonenumber="203"/><Group>1</Group></Contact>
+  <Contact><FirstName>Arvind Kushwaha</FirstName><Phone type="Work" phonenumber="204"/><Group>1</Group></Contact>
+  <Contact><FirstName>Naeema C.K</FirstName><Phone type="Work" phonenumber="205"/><Group>1</Group></Contact>
+  <Contact><FirstName>Mohammed Rashad</FirstName><Phone type="Work" phonenumber="209"/><Group>1</Group></Contact>
+  <Contact><FirstName>Khalid Sayed Mohamed</FirstName><Phone type="Work" phonenumber="211"/><Group>1</Group></Contact>
+  <Contact><FirstName>George Vince</FirstName><Phone type="Work" phonenumber="212"/><Group>1</Group></Contact>
+  <Contact><FirstName>Sulman Mahmood Awan</FirstName><Phone type="Work" phonenumber="213"/><Group>1</Group></Contact>
+</AddressBook>
